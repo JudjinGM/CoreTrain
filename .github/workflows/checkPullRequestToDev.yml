@@ -16,9 +16,6 @@ jobs:
       - uses: actions/setup-java@v1
         with: {java-version: 1.17}
 
-      - name: Make gradlew executable
-        run: chmod +x ./gradlew
-
       - name: Run check out script
         run: ./gradlew :app:build
 
