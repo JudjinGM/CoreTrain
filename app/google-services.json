@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942510665081",
+    "project_id": "coretrain-820ad",
+    "storage_bucket": "coretrain-820ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942510665081:android:b3a2e63612d507b2e5d3a8",
+        "android_client_info": {
+          "package_name": "com.judjingm.coretrain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnC3mIFBDVyyTyAJ36tlzA0dY1fnlljc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
