@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "CoreTrain"
 include(":app")
- 
+include(":uiKit")
